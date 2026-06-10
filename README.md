@@ -150,4 +150,4 @@ Key fields used in the dashboard:
 
 Created as part of a Data Analytics learning project using real-world e-commerce data.
 
-Connect on [LinkedIn] | View on [Tableau Public](#)
+
